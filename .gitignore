@@ -1,5 +1,6 @@
+*.pdf
+
 # exclude specific files
-zeitplan-seminar.pdf
 brainstorming.jpg
 
 # exclude internal data
