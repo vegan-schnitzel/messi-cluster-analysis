@@ -1,7 +1,7 @@
-*.pdf
-
 # exclude specific files
 brainstorming.jpg
+Assignment_Klimadiagnose_Temperaturvaribialitaet_Berlin.pdf
+zeitplan-seminar.pdf
 
 # exclude internal data
 data/
