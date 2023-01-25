@@ -4,11 +4,11 @@ MESSIs are relatively small self-powered weather stations which continuously mon
 
 ![messi locations](figs/locations.png)
 
-In this university project, temperature data measured by MESSIs every 10min in August 2022 is used.
+In this university project, temperature data of August 2022 measured by MESSIs every 10min is used.
 
 ![temperature august](figs/tmp-verlauf.png)
 
-(kmeans)[https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html] is an unsupervised learning algorithm which separates samples into groups (*clusters*). Trying different sets of features and changing the total number of clusters, this analysis aims to find daily clusters that are reasonably consistent in time.
+[kmeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html) is an unsupervised learning algorithm which separates samples into groups (*clusters*). Trying different sets of features and changing the total number of clusters, this analysis aims to find daily clusters that are reasonably consistent in time (i.e., in August).
 
 The most up-to-date, somewhat automated, analysis is notebook #5 (`code/5-scaled-features-perday.ipynb`) and should exclusively be considered if details about the coding part are of concern.
 
