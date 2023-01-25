@@ -5,3 +5,7 @@ zeitplan-seminar.pdf
 
 # exclude internal data
 data/
+
+# exclude preliminary results
+figs/clusters/
+figs/clusters_scaled/
