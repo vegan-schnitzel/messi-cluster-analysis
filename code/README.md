@@ -1,3 +1,3 @@
 Surprise! Here's the corresponding [xkcd](https://xkcd.com/) comic:
 
-<img src="https://imgs.xkcd.com/comics/k_means_clustering.png" width="50%">
+![](https://github.com/vegan-schnitzel/messi-cluster-analysis/tree/main/code)
